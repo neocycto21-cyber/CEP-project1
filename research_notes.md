@@ -25,6 +25,10 @@ Checks correctness, security, and code quality
 
 Integrated software
 The code is combined, tested, and reviewed before release
+
+
+
+On October 15, 2026, BAND announced BAND for Developers, a desktop application designed to help software developers coordinate multiple AI coding agents across different tools and work environments. It aims to make it easier to manage tasks, share information, and coordinate agents without manually transferring information between them. This shows that companies are developing practical tools for AI agents to collaborate on software projects.
 =======
 
 Can Ai agents build software together
