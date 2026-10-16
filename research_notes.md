@@ -14,3 +14,6 @@ A plan every agent can read. A requirements document, an architecture sketch, a 
 Roles that don’t overlap. One agent plans, one builds a given layer, one tests, one reviews.
 Handoffs that carry reasoning. The next agent should know why something was decided, not just what was produced.
 A human on the irreversible calls. Architecture, security, and what ships.
+Where do multi-agent systems still fall short?
+So the main reason is that they cost way more than expected and need alot of funds which is afford by a common person
+ They widen the security surface , each agent with access to code or infrastructure needs scoped permissions and an audit trail.
