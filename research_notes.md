@@ -1,6 +1,6 @@
 ## Can Ai agents build software together
 How AI agents can build software together
-	1. Planning agent ( Breaks down into functions, choose a software structures and create development plan)
+	1. Planning agent (Breaks down into functions, choose a software structures and create development plan)
 	2. Coding agent ( implement all the code for every parts of application including frontend, backend, database and API)
     3. Testing agent(Runs tests, finds bugs, checks edge cases, and reports problems to the coding agents)
     4. Integration and review agent (Checks whether the different components work together, reviews code quality, and helps resolve conflicts)
@@ -59,7 +59,7 @@ So what makes a multi-agent build work?
 If I had to boil down what I’ve seen, it comes to four things:
 
 A plan every agent can read. A requirements document, an architecture sketch, a task board. It matters less what it’s called and more that it exists before the code does.
-Roles that don’t overlap. One agent plans, one builds a given layer, one tests, one reviews.
+    Roles that don’t overlap. One agent plans, one builds a given layer, one tests, one reviews.
 Handoffs that carry reasoning. The next agent should know why something was decided, not just what was produced.
 A human on the irreversible calls. Architecture, security, and what ships.
 Where do multi-agent systems still fall short?
